@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="506.835" viewBox="0 0 1320 506.835">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.786" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d2e6ee"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M20.787,0H1299.213C1310.693,0,1320,8.4,1320,18.772V488.063c0,10.367-9.307,18.772-20.787,18.772H20.787C9.307,506.835,0,498.431,0,488.063V18.772C0,8.4,9.307,0,20.787,0Z" transform="translate(0 0)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_53755" data-name="Grupo 53755" transform="translate(-140.333 -70)">
+    <g id="Enmascarar_grupo_42" data-name="Enmascarar grupo 42" transform="translate(140.333 70)" clip-path="url(#clip-path)">
+      <g id="Grupo_53334" data-name="Grupo 53334" transform="translate(-435.496 -173.794)">
+        <g id="Background" transform="translate(0 0)">
+          <g id="BG_Image" data-name="BG Image">
+            <path id="BG_Image-2" data-name="BG Image" d="M0,0H2042.362V723.614H0Z" fill="#4dd0e1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
